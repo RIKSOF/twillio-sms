@@ -1,2 +1,2 @@
-# twillio-sms
+# twilio-sms
 Twillio SMS
