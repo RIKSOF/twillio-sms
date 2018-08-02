@@ -18,8 +18,5 @@
   ],
   "peerDependencies": {
     "twilio": "3.18.0"
-  },
-  "devDependencies": {
-    "twilio": "3.18.0"
   }
 }
