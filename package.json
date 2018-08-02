@@ -1,10 +1,11 @@
 {
-  "name": "serverless",
+  "name": "twilio-sms",
   "version": "1.0.0",
   "description": "Serverless functions",
   "license": "UNLICENSED",
   "main": "index.js",
   "keywords": [
+    "twilio-sms",
     "serverless",
     "lambda",
     "cloud functions"
